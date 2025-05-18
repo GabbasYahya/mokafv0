@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "414494086115",
+    "firebase_url": "https://mokafapp-default-rtdb.firebaseio.com",
+    "project_id": "mokafapp",
+    "storage_bucket": "mokafapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414494086115:android:4f9460efd24d1275cdc6d6",
+        "android_client_info": {
+          "package_name": "com.example.mokaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNMASYW1cW69-EW-xKGlWFhhaZ2E065k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414494086115:android:66be0f3e1ebcb7e0cdc6d6",
+        "android_client_info": {
+          "package_name": "com.example.mokaf2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNMASYW1cW69-EW-xKGlWFhhaZ2E065k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414494086115:android:a8014c74f05a67f1cdc6d6",
+        "android_client_info": {
+          "package_name": "com.example.mokaf_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNMASYW1cW69-EW-xKGlWFhhaZ2E065k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
